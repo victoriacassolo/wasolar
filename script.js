@@ -31,6 +31,4 @@ function valueOfText() {
   }, 10);
 }
 
-valueOfText();
-
-console.log(client);
+// valueOfText();
